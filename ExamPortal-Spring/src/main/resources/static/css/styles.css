@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+
+input[type="text"], input[type="number"] {
+	display: none;
+}
+
+.hide {
+    display: none;
+}
+
+.btnSubmit:hover {
+	width: 180px;
+	height: 25px;
+	background-color: #f4511e;
+}
